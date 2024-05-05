@@ -29,6 +29,8 @@ I would greatly appreciate your feedback on this project. Please feel free to op
 
 ## Screenshots
 Here are a few snapshots of the PowerBI dashboard:
+
+
 <img width="631" alt="pic" src="https://github.com/quinpeck/PBI_Rocket_Mission/assets/168980120/2d0b3a1b-e1c2-435c-9a8c-de0cde7d0090">
 
 
